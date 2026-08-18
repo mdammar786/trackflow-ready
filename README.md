@@ -70,9 +70,3 @@ Three test files, 38 tests total:
 | `src/components/components.test.tsx` | SprintTimer, TaskList, SprintStats, AddTaskForm, KanbanBoard, VelocityChart |
 
 Tests do not require credentials, external services, or machine-specific files. All data is seeded in memory from `src/data/seed.ts`.
-
-## Repository
-
-- **182 commits** spanning January–December 2023
-- **Origin:** `https://github.com/mdammar786/trackflow-ready`
-- All commits authored by `mdammar786 <mdammaralam9@gmail.com>`
